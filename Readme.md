@@ -16,9 +16,8 @@ A comprehensive Expense Manager application with both CLI and GUI interfaces to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harshitkumar9030/Expense-Manager.git
-    cd Expense-Manager
-    ```
+    https://github.com/Sushmita-Babanagare/Expense-Management-System-.git
+    
 
 2. Install dependencies:
     ```bash
@@ -55,8 +54,7 @@ We welcome contributions from the community! Here's how you can contribute:
 
 This project was developed and maintained by:
 
-- [Harshit Kumar](https://github.com/harshitkumar9030) - *Lead Developer*
-- [Armaan Vashishtha](https://github.com/arvashV) - *Contributor*
+- [Sushmita Babanagare](https://github.com/Sushmita-Babanagare) - *Lead Developer*
 
 ## License
 
